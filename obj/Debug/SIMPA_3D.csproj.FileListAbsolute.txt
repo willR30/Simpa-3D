@@ -1,0 +1,10 @@
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\bin\Debug\SIMPA_3D.exe.config
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\bin\Debug\SIMPA_3D.exe
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\bin\Debug\SIMPA_3D.pdb
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.csproj.AssemblyReference.cache
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.Form1.resources
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.Properties.Resources.resources
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.csproj.GenerateResource.cache
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.csproj.CoreCompileInputs.cache
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.exe
+D:\Zharoon\Documentos\VisualStudio\SIMPA_3D\obj\Debug\SIMPA_3D.pdb
